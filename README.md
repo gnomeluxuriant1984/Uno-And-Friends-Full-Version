@@ -268,4 +268,4 @@ This repository serves as the official landing page for UNO & Friends. The softw
 **Get the most recent version of UNO & Friends today!**
 
 ---
-**Last updated:** 2026-09-20 10:38:43 UTC
+**Last updated:** 2026-09-20 14:29:09 UTC
